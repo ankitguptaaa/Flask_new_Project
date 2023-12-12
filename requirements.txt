@@ -1,0 +1,3 @@
+stremlit
+cv2
+numpy
